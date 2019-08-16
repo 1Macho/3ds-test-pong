@@ -8,6 +8,12 @@
 *.gch
 *.pch
 
+build/
+
+*.3dsx
+*.elf
+*.smdh
+
 # Libraries
 *.lib
 *.a
